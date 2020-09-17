@@ -1,0 +1,21 @@
+/*====================================
+  Author: Sicily Holguin
+  onepagewebsite.com
+  ====================================*/
+
+html {font-family: Helvetica, Times, sans-serif;
+        font-size: 62.50%;
+}
+
+input[type=range]::-moz-range-thumb {
+    -webkit-appearance: none;
+    border: 2px solid #000000;
+    height: 36px;
+    width: 10px;
+    border-radius: 3px;
+    background: #ffffff;
+    cursor: pointer;
+    margin-top: -14px;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+
