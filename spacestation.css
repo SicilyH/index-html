@@ -164,7 +164,7 @@ section {
         color: #fff;
   }
 
-.head-main {
+    .head-main {
         text-shadow: 2px 4px 5px rgba(0, 0, 0, 0.9)
         font-variant: small-caps;
         color: #fff;
@@ -197,7 +197,7 @@ section {
 /*=================================
     Contact STYLES
   =================================*/
-.flex-container {
+  .flex-container {
       display: -webkit-flex;
       display: flex;
       flex-wrap: wrap;
